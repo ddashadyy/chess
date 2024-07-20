@@ -1,0 +1,6 @@
+#include "bishop.hpp"
+#include "king.hpp"
+#include "queen.hpp"
+#include "rook.hpp"
+#include "knight.hpp"
+#include "pawn.hpp"
